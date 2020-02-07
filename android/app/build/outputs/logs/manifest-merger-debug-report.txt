@@ -10,6 +10,7 @@ MERGED from [:react-native-gesture-handler] /home/thiago/dev/javascript/repo-det
 MERGED from [:react-native-reanimated] /home/thiago/dev/javascript/repo-details-react-native/node_modules/react-native-reanimated/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [:react-native-safe-area-context] /home/thiago/dev/javascript/repo-details-react-native/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-9:12
 MERGED from [:react-native-screens] /home/thiago/dev/javascript/repo-details-react-native/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] /home/thiago/dev/javascript/repo-details-react-native/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.61.5] /home/thiago/.gradle/caches/transforms-2/files-2.1/2db0b797c939007ab3e130cef6b929ba/AndroidManifest.xml:2:1-13:12
 MERGED from [com.google.android.material:material:1.0.0] /home/thiago/.gradle/caches/transforms-2/files-2.1/352c166363f5f6f22e31f009415497f4/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.appcompat:appcompat:1.1.0] /home/thiago/.gradle/caches/transforms-2/files-2.1/e4555f2758e122695ab03587c6b5cd65/AndroidManifest.xml:17:1-24:12
@@ -156,6 +157,8 @@ MERGED from [:react-native-safe-area-context] /home/thiago/dev/javascript/repo-d
 MERGED from [:react-native-safe-area-context] /home/thiago/dev/javascript/repo-details-react-native/node_modules/react-native-safe-area-context/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-7:41
 MERGED from [:react-native-screens] /home/thiago/dev/javascript/repo-details-react-native/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-screens] /home/thiago/dev/javascript/repo-details-react-native/node_modules/react-native-screens/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/thiago/dev/javascript/repo-details-react-native/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] /home/thiago/dev/javascript/repo-details-react-native/node_modules/react-native-vector-icons/android/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /home/thiago/.gradle/caches/transforms-2/files-2.1/2db0b797c939007ab3e130cef6b929ba/AndroidManifest.xml:7:5-9:41
 MERGED from [com.facebook.react:react-native:0.61.5] /home/thiago/.gradle/caches/transforms-2/files-2.1/2db0b797c939007ab3e130cef6b929ba/AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.android.material:material:1.0.0] /home/thiago/.gradle/caches/transforms-2/files-2.1/352c166363f5f6f22e31f009415497f4/AndroidManifest.xml:20:5-44
